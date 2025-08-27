@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**ai-rustic/ai-rustic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🚀 **Currently learning**: ZKP (Zero Knowledge Proof), Axum advanced, AI agents integration  
+🤝 **Looking for collaboration**: Dự án backend mạnh, AI API, Web3 automation, AI agent  
+📌 **Pinned projects**: [axum-ai-starter](#), [py-llm-app](#), [zkp-rust-lab](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌐 Kết nối  
+[LinkedIn](#) | [Blog](#) | [Discord: yourid] | [Twitter](#)
+
+---
+
+Cảm ơn vì đã ghé qua profile!  
