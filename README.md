@@ -8,16 +8,14 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ai-rustic&label=Profile%20views&color=blue" alt="Profile views"/>
-  <span style="padding-left:16px;padding-right:8px;"><a href="#like">Just like 👍</a></span>
-  <span><img src="https://progress-bar.dev/100/?title=&width=180&color=1a80ff" alt="Just Like Bar"> <b>451</b></span>
 </p>
 
 ---
 
-🦀 **Rust backend** (Axum framework, async API, bảo mật, tối ưu hiệu năng)  
-🐍 **Python/AI** (Xây dựng AI service, tích hợp ML model, FastAPI, LLM, automation)  
-🛠 **Hệ thống:** Microservices, Docker, PostgreSQL, cloud native (AWS)  
-🔎 **Sở trường:** Xây dựng giải pháp thật, workflow automation, teamwork hỗ trợ phát triển
+🦀 **Rust backend** (Axum framework, async API, security, high performance optimization)  
+🐍 **Python/AI** (Building AI services, integrating ML models, FastAPI, LLM, automation)  
+🛠 **Systems:** Microservices, Docker, PostgreSQL, cloud native (AWS)  
+🔎 **Strengths:** Real-world solution building, workflow automation, teamwork & collaboration  
 
 
 ---
@@ -26,9 +24,7 @@
 🤝 **Looking for collaboration**: Dự án backend mạnh, AI API, Web3 automation, AI agent  
 📌 **Pinned projects**: [axum-ai-starter](#), [py-llm-app](#), [zkp-rust-lab](#)
 
-#### 🌐 Kết nối  
+#### 🌐 Connect
 [LinkedIn](#) | [Blog](#) | [Discord: yourid] | [Twitter](#)
 
 ---
-
-Cảm ơn vì đã ghé qua profile!  
