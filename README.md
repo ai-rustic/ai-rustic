@@ -1,7 +1,7 @@
 <h1 align="center">ai-rustic 🦀</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,axum,python,fastapi,django,aws,docker,postgresql,git,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=rust,python,fastapi,django,aws,docker,postgresql,git,tensorflow" />
 </p>
 
 <p align="center">
